@@ -1,13 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8çºš¶î1J$15031566-6b68-40dd-b49e-8cc16249de58
-­
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—Ú£şÿÿÿÿ8®»š¶î1J$bed2f266-8296-4137-bb47-40b516425550
-˜
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(«ÜÓÛùÿÿÿÿ8¯»š¶î1J$02a7bc88-5ac8-4a07-854a-327acdb91f3c
-r	java:S106B"+Replace this use of System.out by a logger.(‘•ÛØøÿÿÿÿ8Í»š¶î1J$04ab4807-b3c4-4385-a761-746bb0b6e7e1
-m	java:S106N"+Replace this use of System.out by a logger.(÷ñ¥ø8Ö»š¶î1J$56174427-212b-4b93-b965-6fb0895292c9
-r	java:S106d"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8İ»š¶î1J$c4a1d348-a150-430c-9025-0990a0f6d34f
-o
-java:S1068
-",Remove this unused "waitlist" private field.(©¬Í·8Ÿù¨¶î1J$86485402-1779-4e12-94c7-94f9a6e400cc
